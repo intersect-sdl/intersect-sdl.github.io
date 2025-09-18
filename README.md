@@ -1,1 +1,0 @@
-# intersect-sdl.github.io
